@@ -2,11 +2,10 @@
 """
 ======================================================
   Network Port Scanner & Vulnerability Reporter
-  INSA Summer Camp — Cybersecurity Track
 ======================================================
   Description : Scans open TCP ports, grabs service
                 banners, and generates an HTML report.
-  Author      : [Your Name]
+  Author      : Hailemichael Gebresemaet
   Language    : Python 3
   Usage       : python port_scanner.py <target> [options]
   Example     : python port_scanner.py 192.168.56.101 -p 1-1024 -t 100
