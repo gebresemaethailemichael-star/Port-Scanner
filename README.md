@@ -76,4 +76,4 @@ Set it up on VirtualBox with a Host-Only adapter. It will never connect to the i
 
 ---
 
-*Project by [Hailemichael Gebresemaet] — INSA Summer Camp Cybersecurity Track*
+*Project by [Hailemichael Gebresemaet]
